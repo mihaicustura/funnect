@@ -1,0 +1,12 @@
+{
+    "name": "rosana/dss",
+    "require": {
+        "php": "^7.2"
+    },
+    "authors": [
+        {
+            "name": "Rosana Constantin",
+            "email": "constantin.rosana@yahoo.com"
+        }
+    ]
+}
