@@ -1,7 +1,13 @@
 {
     "name": "rosana/dss",
     "require": {
-        "php": "^7.2"
+        "php": "^7.0",
+	"components/jquery": "3.3.*",
+	"twbs/bootstrap": "4.1.*",
+	"gymadarasz/jquery.easing": "1.*",
+	"yidas/yii2-bower-asset": "2.0.*",
+	"m00nk/yii2-scrollreveal": "1.2.*",
+	"dimsemenov/magnific-popup": "1.1.*"
     },
 	"minimum-stability": "dev",
 	"prefer-stable": true,
